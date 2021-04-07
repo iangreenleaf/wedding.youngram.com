@@ -1,0 +1,8 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: Photos
+  url: /photos/
+- title: Wedding Party
+  url: /party/
