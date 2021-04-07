@@ -2,4 +2,6 @@
 layout: page
 ---
 
-{% lychee_album 16177637674628 %}
+<figure class="gallery">
+{% lychee_album 16093482931797 %}
+</figure>

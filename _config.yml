@@ -31,7 +31,7 @@ theme: jekyll-theme-so-simple
 lychee:
   url: https://photos.youngram.com
   album_title_tag: h1
-  link_big_to: lychee
+  link_big_to: img
 
 # Exclude from processing.
 # The following items will not be processed, by default.
