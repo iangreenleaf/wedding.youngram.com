@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wedding.youngram.com"
 permalink: none
 tag_archive_path: "/tags/"
-skin: "/assets/css/skins/light.css"
+skin: "/assets/css/skins/purple.css"
 
 # Build settings
 markdown: kramdown
