@@ -28,6 +28,11 @@ skin: "/assets/css/skins/purple.css"
 markdown: kramdown
 theme: jekyll-theme-so-simple
 
+lychee:
+  url: https://photos.youngram.com
+  album_title_tag: h1
+  link_big_to: lychee
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
