@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /party/
 ---
 
 {::options parse_block_html="true" /}

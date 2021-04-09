@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /about/
 ---
 
 {::options parse_block_html="true" /}

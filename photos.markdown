@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /photos/
 ---
 
 <figure class="gallery">
