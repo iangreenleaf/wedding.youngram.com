@@ -54,6 +54,7 @@ module Jekyll
       @config['link_big_to']     ||= 'lychee'
       @config['url']             ||= 'http://electerious.com/lychee_demo'
       @config['cache_folder']    ||= '_lychee_cache'
+      @config['no_title']        ||= false
 
       # construct class wide usable variables
       @thumb_url = @config['url'] + "/"
@@ -78,7 +79,11 @@ module Jekyll
 
       album = cached_response(@album_id, 'album') || get_album(@album_id)
       puts "[Lychee Tag] Processing Lychee album id #{@album_id}: '#{album['title']}'"
-      html = "<#{@config['album_title_tag']}>#{album['title']}</#{@config['album_title_tag']}>\n"
+      html = if @config['no_title']
+               ""
+             else
+               "<#{@config['album_title_tag']}>#{album['title']}</#{@config['album_title_tag']}>\n"
+             end
       album_content = album['photos']
       album_content.each do |photo_data|
         big_href = case @config['link_big_to']
