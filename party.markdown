@@ -7,7 +7,7 @@ layout: page
 # Wedding Party
 
 <section class="bios">
-![Christy Cloninger](assets/images/christy.jpg){: .align-left}
+![Christy Cloninger](/assets/images/christy.jpg){: .align-left}
 
 ## Christy Cloninger
 ### Officiant, Bride's Coven
@@ -16,7 +16,7 @@ Christy is filling two roles as both master of ceremony and soulmate to the brid
 </section>
 
 <section class="bios">
-![Liz Bacon](assets/images/liz.jpg){: .align-left}
+![Liz Bacon](/assets/images/liz.jpg){: .align-left}
 
 ## Liz Bacon
 ### Bride's Coven
@@ -25,7 +25,7 @@ Liz and Katherine met while interviewing at UCSD. In fact, thanks to the psych d
 </section>
 
 <section class="bios">
-![Julia Bottles](assets/images/julia.jpg){: .align-left}
+![Julia Bottles](/assets/images/julia.jpg){: .align-left}
 
 ## Julia Bottles
 ### Bride's Coven
@@ -34,7 +34,7 @@ Katherine and Julia met on move-in-day at Grinnell when Julia took up residence 
 </section>
 
 <section class="bios">
-![Brian Ingram](assets/images/brian.jpg){: .align-left}
+![Brian Ingram](/assets/images/brian.jpg){: .align-left}
 
 ## Brian Ingram
 ### Bride's Coven
@@ -43,7 +43,7 @@ Katherine likes to joke that Brian is her favorite brother (also, her only broth
 </section>
 
 <section class="bios">
-![Sean Warlick](assets/images/sean.jpg){: .align-left}
+![Sean Warlick](/assets/images/sean.jpg){: .align-left}
 
 ## Sean Warlick
 ### Bride's Coven
@@ -52,7 +52,7 @@ First year at Grinnell, Sean technically lived in the triple above Katherine, bu
 </section>
 
 <section class="bios">
-![Aden S-K](assets/images/aden.jpg){: .align-left}
+![Aden S-K](/assets/images/aden.jpg){: .align-left}
 
 ## Aden S-K
 ### Groom Squad
@@ -61,7 +61,7 @@ Aden and Ian met through the Ultimate team at Grinnell. Ian missed having a brot
 </section>
 
 <section class="bios">
-![Andrew Young](assets/images/andrew.jpg){: .align-left}
+![Andrew Young](/assets/images/andrew.jpg){: .align-left}
 
 ## Andrew Young
 ### Groom Squad
@@ -70,7 +70,7 @@ Andrew is Ian's brother. Andrew tried to smother Ian when Ian was 1 year old, bu
 </section>
 
 <section class="bios">
-![Jim Aspholm](assets/images/jim.jpg){: .align-left}
+![Jim Aspholm](/assets/images/jim.jpg){: .align-left}
 
 ## Jim Aspholm
 ### Groom Squad
@@ -79,7 +79,7 @@ Jim and Ian met in high school on the XC ski team. They've remained good friends
 </section>
 
 <section class="bios">
-![Kurt Melby](assets/images/kurt.jpg){: .align-left}
+![Kurt Melby](/assets/images/kurt.jpg){: .align-left}
 
 ## Kurt Melby
 ### Groom Squad
@@ -88,7 +88,7 @@ Ian met Kurt when he was about 12 years old and they didn't hit it off. They met
 </section>
 
 <section class="bios">
-![Dan Bacon](assets/images/dan.jpg){: .align-left}
+![Dan Bacon](/assets/images/dan.jpg){: .align-left}
 
 ## Dan Bacon
 ### Usher
@@ -97,7 +97,7 @@ While Dan called dibs on flower girl, we told him he's just not pretty enough so
 </section>
 
 <section class="bios">
-![Ian Lunderskov](assets/images/lunders.jpg){: .align-left}
+![Ian Lunderskov](/assets/images/lunders.jpg){: .align-left}
 
 ## Ian Lunderskov
 ### Usher
