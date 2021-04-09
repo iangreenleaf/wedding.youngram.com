@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://wedding.youngram.com/about.html</loc>
+<loc>https://wedding.youngram.com/about/</loc>
 </url>
 <url>
 <loc>https://wedding.youngram.com/</loc>
 </url>
 <url>
-<loc>https://wedding.youngram.com/party.html</loc>
+<loc>https://wedding.youngram.com/party/</loc>
 </url>
 <url>
-<loc>https://wedding.youngram.com/photos.html</loc>
+<loc>https://wedding.youngram.com/photos/</loc>
 </url>
 </urlset>
